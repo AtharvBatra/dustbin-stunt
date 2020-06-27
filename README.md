@@ -1,1 +1,2 @@
-# dustbin-stunt
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
